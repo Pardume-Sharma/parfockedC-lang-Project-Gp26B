@@ -40,6 +40,10 @@ int main()
         printf("Reverse of a number");
         break;
 
+        case 7:
+            printf("This code is Forked");
+            break;
+
         default:
         printf("choice is invalid");
         break;
