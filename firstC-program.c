@@ -13,14 +13,19 @@ int main()
     {
         case 1:
         printf("This case contains the prime number");
+        printf("prime numbers are the number which are divisible only by 1 and the number itself");
+
         break;
 
         case 4:
         printf("This is the Fibonacci Series");
+        printf("This case contains the fibonacci numbers");
+
         break;
 
         case 2:
         printf("Armstrong Logic");
+        printf("This case checks the Armstrong numbers");
         break;
 
         case 6:
@@ -38,6 +43,8 @@ int main()
         default:
         printf("choice is invalid");
     }
+
+
 
     return 0;
 
