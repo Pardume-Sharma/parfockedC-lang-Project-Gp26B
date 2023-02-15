@@ -42,6 +42,8 @@ int main()
 
         default:
         printf("choice is invalid");
+        break;
+    printf("A Random Statement")//Ojas
     }
 
 
