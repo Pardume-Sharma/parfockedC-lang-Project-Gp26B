@@ -20,7 +20,7 @@ int main()
         break;
 
         case 2:
-        printf("Armstrong Logic");
+        printf("This is the Armstrong Logic");
         break;
 
         case 6:
@@ -34,6 +34,10 @@ int main()
         case 5:
         printf("Reverse of a number");
         break;
+
+        case 7:
+            printf("This case contains the even number");
+            break;
 
         default:
         printf("choice is invalid");
