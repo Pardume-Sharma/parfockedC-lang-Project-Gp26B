@@ -24,8 +24,8 @@ int main()
         break;
 
         case 2:
-        printf("Armstrong Logic");
-        printf("This case checks the Armstrong numbers");
+        printf("This is the Armstrong Logic");
+
         break;
 
         case 6:
@@ -41,7 +41,8 @@ int main()
         break;
 
         case 7:
-            printf("This code is Forked");
+
+            printf("This case contains the even number")
             break;
 
         default:
