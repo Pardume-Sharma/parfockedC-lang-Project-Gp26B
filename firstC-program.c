@@ -41,10 +41,13 @@ int main()
         break;
 
         case 7:
-
-            printf("This case contains the even number")
-            break;
-
+        printf("This case contains the even number")
+        break;
+        
+        case 8:
+        printf("Reverse table printing logic added.");
+        break;
+        
         default:
         printf("choice is invalid");
         break;
